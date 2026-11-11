@@ -1,0 +1,13 @@
+# caches, logs, and raw scraped HTML — not part of the published tree
+.DS_Store
+__pycache__/
+*.pyc
+.env*
+pdp/
+s_*.html
+swh.html
+co.html
+co2.html
+p_test.html
+vrbo.html
+fetch.log

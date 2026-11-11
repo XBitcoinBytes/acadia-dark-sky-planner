@@ -1,0 +1,2719 @@
+{
+ "43495112": {
+  "id": "43495112",
+  "title": "Home in Bar Harbor",
+  "name": "Walk to downtown Bar Harbor\u2019s Shore Path",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,184",
+  "qual": "for 4 nights",
+  "a11y": "$1,184 for 4 nights, originally $2,209",
+  "expl": [
+   [
+    "4 nights x $296.00",
+    "$1,184.00"
+   ]
+  ],
+  "rating": "4.99 (103)",
+  "lat": 44.387,
+  "lng": -68.2129,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1615651822672541875": {
+  "id": "1615651822672541875",
+  "title": "Apartment in Bar Harbor",
+  "name": "New downtown unit on the Shore Path",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "4 baths"
+  ],
+  "price": "$2,124",
+  "qual": "for 4 nights",
+  "a11y": "$2,124 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $531.00",
+    "$2,124.00"
+   ]
+  ],
+  "rating": null,
+  "lat": 44.388,
+  "lng": -68.2038,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1298153691523804781": {
+  "id": "1298153691523804781",
+  "title": "Home in Mount Desert",
+  "name": "Waterfront home with Somes Sound views",
+  "beds": [
+   "4 bedrooms",
+   "4 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,386",
+  "qual": "for 4 nights",
+  "a11y": "$1,386 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $351.77",
+    "$1,407.09"
+   ],
+   [
+    "Early booking discount",
+    "-$21.10"
+   ],
+   [
+    "Price after discount",
+    "$1,385.99"
+   ]
+  ],
+  "rating": "4.91 (74)",
+  "lat": 44.3521,
+  "lng": -68.3261,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1038535762542430895": {
+  "id": "1038535762542430895",
+  "title": "Home in Ellsworth",
+  "name": "Renovated 1899 farmhouse with a hot tub",
+  "beds": [
+   "5 bedrooms",
+   "7 beds",
+   "2 baths"
+  ],
+  "price": "$1,150",
+  "qual": "for 4 nights",
+  "a11y": "$1,150 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $294.75",
+    "$1,179.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$29.48"
+   ],
+   [
+    "Price after discount",
+    "$1,149.52"
+   ]
+  ],
+  "rating": "4.94 (95)",
+  "lat": 44.55627,
+  "lng": -68.43336,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1647188991520487394": {
+  "id": "1647188991520487394",
+  "title": "Home in Southwest Harbor",
+  "name": "New chalet on 2 wooded acres",
+  "beds": [
+   "4 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,348",
+  "qual": "for 4 nights",
+  "a11y": "$1,348 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $350.00",
+    "$1,400.00"
+   ],
+   [
+    "Early booking discount",
+    "-$17.50"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$34.56"
+   ],
+   [
+    "Price after discount",
+    "$1,347.94"
+   ]
+  ],
+  "rating": "5.0 (5)",
+  "lat": 44.26108,
+  "lng": -68.32841,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1602603361093266191": {
+  "id": "1602603361093266191",
+  "title": "Apartment in Bar Harbor",
+  "name": "Chef\u2019s kitchen with Wolf appliances downtown",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "3 baths"
+  ],
+  "price": "$1,024",
+  "qual": "for 4 nights",
+  "a11y": "$1,024 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $262.65",
+    "$1,050.60"
+   ],
+   [
+    "Early booking discount",
+    "-$27.30"
+   ],
+   [
+    "Price after discount",
+    "$1,023.30"
+   ]
+  ],
+  "rating": "5.0 (23)",
+  "lat": 44.3891,
+  "lng": -68.2049,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1615630972100952925": {
+  "id": "1615630972100952925",
+  "title": "Apartment in Bar Harbor",
+  "name": "Downtown, steps from Shore Path",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,919",
+  "qual": "for 4 nights",
+  "a11y": "$1,919 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $479.75",
+    "$1,919.00"
+   ]
+  ],
+  "rating": null,
+  "lat": 44.388,
+  "lng": -68.2037,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "655199327856201090": {
+  "id": "655199327856201090",
+  "title": "Home in Ellsworth",
+  "name": "Fire pit on 3/4 acre near Acadia",
+  "beds": [
+   "5 bedrooms",
+   "9 beds",
+   "2.5 baths"
+  ],
+  "price": "$953",
+  "qual": "for 4 nights",
+  "a11y": "$953 for 4 nights, originally $1,055",
+  "expl": [
+   [
+    "4 nights x $263.75",
+    "$1,055.00"
+   ],
+   [
+    "Long stay discount",
+    "-$78.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$24.43"
+   ],
+   [
+    "Price after discount",
+    "$952.57"
+   ]
+  ],
+  "rating": "4.91 (148)",
+  "lat": 44.53853,
+  "lng": -68.4354,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "946656640648157851": {
+  "id": "946656640648157851",
+  "title": "Home in Trenton",
+  "name": "Oceanfront cottage on a bluff with deck",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,246",
+  "qual": "for 4 nights",
+  "a11y": "$1,246 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $319.25",
+    "$1,277.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$31.93"
+   ],
+   [
+    "Price after discount",
+    "$1,245.07"
+   ]
+  ],
+  "rating": "4.99 (102)",
+  "lat": 44.4311,
+  "lng": -68.3937,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1513881521866769406": {
+  "id": "1513881521866769406",
+  "title": "Cabin in Bar Harbor",
+  "name": "Frenchman\u2019s Bay views with beach access",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2 baths"
+  ],
+  "price": "$1,418",
+  "qual": "for 4 nights",
+  "a11y": "$1,418 for 4 nights, originally $1,870",
+  "expl": [
+   [
+    "4 nights x $354.50",
+    "$1,418.00"
+   ]
+  ],
+  "rating": "4.8 (40)",
+  "lat": 44.4396,
+  "lng": -68.3237,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "53583857": {
+  "id": "53583857",
+  "title": "Home in Mount Desert",
+  "name": "Waterfront on Somes Sound with a dock",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "4 baths"
+  ],
+  "price": "$2,124",
+  "qual": "for 4 nights",
+  "a11y": "$2,124 for 4 nights, originally $2,580",
+  "expl": [
+   [
+    "4 nights x $531.00",
+    "$2,124.00"
+   ]
+  ],
+  "rating": "4.96 (103)",
+  "lat": 44.3624,
+  "lng": -68.3338,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "50053509": {
+  "id": "50053509",
+  "title": "Religious building in Bar Harbor",
+  "name": "A restored 1908 convent with chapel",
+  "beds": [
+   "8 bedrooms",
+   "10 beds",
+   "3.5 baths"
+  ],
+  "price": "$2,770",
+  "qual": "for 4 nights",
+  "a11y": "$2,770 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $692.50",
+    "$2,770.00"
+   ]
+  ],
+  "rating": "4.95 (122)",
+  "lat": 44.3842,
+  "lng": -68.20668,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "904507066807073305": {
+  "id": "904507066807073305",
+  "title": "Home in Mount Desert",
+  "name": "1830s home with a fire pit near Acadia",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,262",
+  "qual": "for 4 nights",
+  "a11y": "$1,262 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $319.18",
+    "$1,276.73"
+   ],
+   [
+    "Early booking discount",
+    "-$15.70"
+   ],
+   [
+    "Price after discount",
+    "$1,261.03"
+   ]
+  ],
+  "rating": "4.87 (100)",
+  "lat": 44.36629,
+  "lng": -68.33196,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1606453073701095879": {
+  "id": "1606453073701095879",
+  "title": "Home in Mount Desert",
+  "name": "Hot tub, theater, and game room",
+  "beds": [
+   "5 bedrooms",
+   "8 beds",
+   "2 baths"
+  ],
+  "price": "$2,827",
+  "qual": "for 4 nights",
+  "a11y": "$2,827 for 4 nights, originally $3,102",
+  "expl": [
+   [
+    "4 nights x $775.50",
+    "$3,102.00"
+   ],
+   [
+    "Long stay discount",
+    "-$275.20"
+   ],
+   [
+    "Price after discount",
+    "$2,826.80"
+   ]
+  ],
+  "rating": "5.0 (37)",
+  "lat": 44.35424755912934,
+  "lng": -68.33736982342988,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1242814139002887696": {
+  "id": "1242814139002887696",
+  "title": "Home in Trenton",
+  "name": "New home with a fire pit, near Acadia",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,024",
+  "qual": "for 4 nights",
+  "a11y": "$1,024 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $262.50",
+    "$1,050.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$26.25"
+   ],
+   [
+    "Price after discount",
+    "$1,023.75"
+   ]
+  ],
+  "rating": "4.96 (79)",
+  "lat": 44.41487,
+  "lng": -68.4075,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1100088755358470202": {
+  "id": "1100088755358470202",
+  "title": "Cottage in Lamoine",
+  "name": "Historic oceanfront cottage with Acadia views",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2.5 baths"
+  ],
+  "price": "$2,067",
+  "qual": "for 4 nights",
+  "a11y": "$2,067 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $530.00",
+    "$2,120.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$53.00"
+   ],
+   [
+    "Price after discount",
+    "$2,067.00"
+   ]
+  ],
+  "rating": "4.98 (44)",
+  "lat": 44.45359,
+  "lng": -68.28655,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1039878328248416312": {
+  "id": "1039878328248416312",
+  "title": "Home in Lamoine",
+  "name": "Panoramic water views and a fire pit",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$874",
+  "qual": "for 4 nights",
+  "a11y": "$874 for 4 nights, originally $968",
+  "expl": [
+   [
+    "4 nights x $242.00",
+    "$968.00"
+   ],
+   [
+    "Long stay discount",
+    "-$71.80"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$22.41"
+   ],
+   [
+    "Price after discount",
+    "$873.79"
+   ]
+  ],
+  "rating": "4.82 (118)",
+  "lat": 44.4618,
+  "lng": -68.313,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "1574955649180461943": {
+  "id": "1574955649180461943",
+  "title": "Home in Lamoine",
+  "name": "Oceanfront on 5 acres with a hot tub",
+  "beds": [
+   "6 bedrooms",
+   "9 beds",
+   "4 baths"
+  ],
+  "price": "$2,497",
+  "qual": "for 4 nights",
+  "a11y": "$2,497 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $640.25",
+    "$2,561.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$64.03"
+   ],
+   [
+    "Price after discount",
+    "$2,496.97"
+   ]
+  ],
+  "rating": "5.0 (33)",
+  "lat": 44.50744882375963,
+  "lng": -68.31437926389604,
+  "src": "s_Bar-Harbor--ME_0.html"
+ },
+ "621869887358444638": {
+  "id": "621869887358444638",
+  "title": "Home in Tremont",
+  "name": "Sleeps 14, with a fire pit and a grill",
+  "beds": [
+   "5 bedrooms",
+   "7 beds",
+   "3 baths"
+  ],
+  "price": "$962",
+  "qual": "for 4 nights",
+  "a11y": "$962 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $242.75",
+    "$971.00"
+   ],
+   [
+    "Early booking discount",
+    "-$9.80"
+   ],
+   [
+    "Price after discount",
+    "$961.20"
+   ]
+  ],
+  "rating": "4.89 (188)",
+  "lat": 44.24148,
+  "lng": -68.33694,
+  "src": "s_Bar-Harbor--ME_18.html"
+ },
+ "1421065197495083602": {
+  "id": "1421065197495083602",
+  "title": "Home in Hancock",
+  "name": "Oceanfront hot tub, deck, and kayaks",
+  "beds": [
+   "5 bedrooms",
+   "8 beds",
+   "3 baths"
+  ],
+  "price": "$2,750",
+  "qual": "for 4 nights",
+  "a11y": "$2,750 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $705.00",
+    "$2,820.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$70.50"
+   ],
+   [
+    "Price after discount",
+    "$2,749.50"
+   ]
+  ],
+  "rating": "5.0 (39)",
+  "lat": 44.53075,
+  "lng": -68.29716,
+  "src": "s_Bar-Harbor--ME_18.html"
+ },
+ "1690191801234356044": {
+  "id": "1690191801234356044",
+  "title": "Apartment in Ellsworth",
+  "name": "Private sauna, game room, and fireplace",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,158",
+  "qual": "for 4 nights",
+  "a11y": "$1,158 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $296.75",
+    "$1,187.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$29.68"
+   ],
+   [
+    "Price after discount",
+    "$1,157.32"
+   ]
+  ],
+  "rating": "4.96 (24)",
+  "lat": 44.5173,
+  "lng": -68.3986,
+  "src": "s_Bar-Harbor--ME_18.html"
+ },
+ "556570227801723498": {
+  "id": "556570227801723498",
+  "title": "Home in Tremont",
+  "name": "Newly built with a fire pit and gazebo",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "2 baths"
+  ],
+  "price": "$934",
+  "qual": "for 4 nights",
+  "a11y": "$934 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $235.75",
+    "$943.00"
+   ],
+   [
+    "Early booking discount",
+    "-$9.45"
+   ],
+   [
+    "Price after discount",
+    "$933.55"
+   ]
+  ],
+  "rating": "4.83 (163)",
+  "lat": 44.24037,
+  "lng": -68.33896,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "40404479": {
+  "id": "40404479",
+  "title": "Home in Tremont",
+  "name": "Private home abutting Acadia National Park",
+  "beds": [
+   "5 bedrooms",
+   "7 beds",
+   "3 baths"
+  ],
+  "price": "$1,063",
+  "qual": "for 4 nights",
+  "a11y": "$1,063 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $277.25",
+    "$1,109.00"
+   ],
+   [
+    "Early booking discount",
+    "-$46.00"
+   ],
+   [
+    "Price after discount",
+    "$1,063.00"
+   ]
+  ],
+  "rating": "4.82 (216)",
+  "lat": 44.24086,
+  "lng": -68.33337,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "34423277": {
+  "id": "34423277",
+  "title": "Home in Tremont",
+  "name": "Screened porch near Bass Harbor Lighthouse",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "2 baths"
+  ],
+  "price": "$909",
+  "qual": "for 4 nights",
+  "a11y": "$909 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $229.50",
+    "$918.00"
+   ],
+   [
+    "Early booking discount",
+    "-$9.00"
+   ],
+   [
+    "Price after discount",
+    "$909.00"
+   ]
+  ],
+  "rating": "4.85 (302)",
+  "lat": 44.24237,
+  "lng": -68.33688,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1456126949890779710": {
+  "id": "1456126949890779710",
+  "title": "Home in Trenton",
+  "name": "Oceanfront with 250 feet of shoreline",
+  "beds": [
+   "4 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,502",
+  "qual": "for 4 nights",
+  "a11y": "$1,502 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $385.00",
+    "$1,540.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$38.50"
+   ],
+   [
+    "Price after discount",
+    "$1,501.50"
+   ]
+  ],
+  "rating": "5.0 (31)",
+  "lat": 44.4095,
+  "lng": -68.4029,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1121257304896908149": {
+  "id": "1121257304896908149",
+  "title": "Home in Mount Desert",
+  "name": "1856 general store turned retreat",
+  "beds": [
+   "5 bedrooms",
+   "8 beds",
+   "4 baths"
+  ],
+  "price": "$2,334",
+  "qual": "for 4 nights",
+  "a11y": "$2,334 for 4 nights, originally $2,554",
+  "expl": [
+   [
+    "4 nights x $638.50",
+    "$2,554.00"
+   ],
+   [
+    "Long stay discount",
+    "-$220.40"
+   ],
+   [
+    "Price after discount",
+    "$2,333.60"
+   ]
+  ],
+  "rating": "4.98 (114)",
+  "lat": 44.36087,
+  "lng": -68.33654,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1025695466402390077": {
+  "id": "1025695466402390077",
+  "title": "Home in Tremont",
+  "name": "Two houses, 2 minutes from Acadia",
+  "beds": [
+   "10 bedrooms",
+   "14 beds",
+   "6 baths"
+  ],
+  "price": "$1,693",
+  "qual": "for 4 nights",
+  "a11y": "$1,693 for 4 nights, originally $1,853",
+  "expl": [
+   [
+    "4 nights x $463.25",
+    "$1,853.00"
+   ],
+   [
+    "Early booking discount",
+    "-$160.00"
+   ],
+   [
+    "Price after discount",
+    "$1,693.00"
+   ]
+  ],
+  "rating": "4.5 (12)",
+  "lat": 44.23955,
+  "lng": -68.33368,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "884639201642627728": {
+  "id": "884639201642627728",
+  "title": "Home in Southwest Harbor",
+  "name": "Harborside cottage with hot tub and dock",
+  "beds": [
+   "4 bedrooms",
+   "12 beds",
+   "2 baths"
+  ],
+  "price": "$2,730",
+  "qual": "for 4 nights",
+  "a11y": "$2,730 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $700.00",
+    "$2,800.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$70.00"
+   ],
+   [
+    "Price after discount",
+    "$2,730.00"
+   ]
+  ],
+  "rating": "4.94 (18)",
+  "lat": 44.27342738008376,
+  "lng": -68.32577142575099,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "12886133": {
+  "id": "12886133",
+  "title": "Home in Tremont",
+  "name": "Hot tub and game loft near Acadia",
+  "beds": [
+   "6 bedrooms",
+   "9 beds",
+   "3 baths"
+  ],
+  "price": "$5,199",
+  "qual": "for 4 nights",
+  "a11y": "$5,199 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $1,299.75",
+    "$5,199.00"
+   ]
+  ],
+  "rating": "5.0 (22)",
+  "lat": 44.25700645810819,
+  "lng": -68.36157194419056,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1664506260570897573": {
+  "id": "1664506260570897573",
+  "title": "Home in Mount Desert",
+  "name": "15 min to Acadia with EV charger",
+  "beds": [
+   "4 bedrooms",
+   "8 beds",
+   "3 baths"
+  ],
+  "price": "$1,349",
+  "qual": "for 4 nights",
+  "a11y": "$1,349 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $341.40",
+    "$1,365.59"
+   ],
+   [
+    "Early booking discount",
+    "-$17.10"
+   ],
+   [
+    "Price after discount",
+    "$1,348.49"
+   ]
+  ],
+  "rating": "4.87 (15)",
+  "lat": 44.3411,
+  "lng": -68.3573,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "49996131": {
+  "id": "49996131",
+  "title": "Home in Southwest Harbor",
+  "name": "Architect-designed oceanfront with a private dock",
+  "beds": [
+   "4 bedrooms",
+   "4 beds",
+   "3.5 baths"
+  ],
+  "price": "$5,167",
+  "qual": "for 4 nights",
+  "a11y": "$5,167 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $1,291.75",
+    "$5,167.00"
+   ]
+  ],
+  "rating": "5.0 (64)",
+  "lat": 44.27038,
+  "lng": -68.31441,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "49499575": {
+  "id": "49499575",
+  "title": "Cottage in Southwest Harbor",
+  "name": "Restored cottage with dock and seaglass beach",
+  "beds": [
+   "3 bedrooms",
+   "10 beds",
+   "2 baths"
+  ],
+  "price": "$1,281",
+  "qual": "for 4 nights",
+  "a11y": "$1,281 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $328.25",
+    "$1,313.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$32.83"
+   ],
+   [
+    "Price after discount",
+    "$1,280.17"
+   ]
+  ],
+  "rating": "4.94 (123)",
+  "lat": 44.2728,
+  "lng": -68.3261,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1025698302995362651": {
+  "id": "1025698302995362651",
+  "title": "Home in Tremont",
+  "name": "Two houses minutes from Acadia National Park",
+  "beds": [
+   "8 bedrooms",
+   "14 beds",
+   "4 baths"
+  ],
+  "price": "$1,941",
+  "qual": "for 4 nights",
+  "a11y": "$1,941 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $507.25",
+    "$2,029.00"
+   ],
+   [
+    "Early booking discount",
+    "-$88.80"
+   ],
+   [
+    "Price after discount",
+    "$1,940.20"
+   ]
+  ],
+  "rating": "4.86 (7)",
+  "lat": 44.24209,
+  "lng": -68.34035,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1688369624277832763": {
+  "id": "1688369624277832763",
+  "title": "Home in Mount Desert",
+  "name": "Private trail into Acadia National Park",
+  "beds": [
+   "6 bedrooms",
+   "13 beds",
+   "4 baths"
+  ],
+  "price": "$3,627",
+  "qual": "for 4 nights",
+  "a11y": "$3,627 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $906.53",
+    "$3,626.10"
+   ]
+  ],
+  "rating": "5.0 (12)",
+  "lat": 44.3086,
+  "lng": -68.2424,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "1549266066852439429": {
+  "id": "1549266066852439429",
+  "title": "Home in Tremont",
+  "name": "A lighthouse home near Acadia",
+  "beds": [
+   "3 bedrooms",
+   "8 beds",
+   "2 baths"
+  ],
+  "price": "$1,848",
+  "qual": "for 4 nights",
+  "a11y": "$1,848 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $462.00",
+    "$1,848.00"
+   ]
+  ],
+  "rating": "4.85 (27)",
+  "lat": 44.25521,
+  "lng": -68.37691,
+  "src": "s_Bass-Harbor--ME_0.html"
+ },
+ "52012730": {
+  "id": "52012730",
+  "title": "Home in Tremont",
+  "name": "Three-floor log home with a Jacuzzi",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$773",
+  "qual": "for 4 nights",
+  "a11y": "$773 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $194.75",
+    "$779.00"
+   ],
+   [
+    "Early booking discount",
+    "-$6.20"
+   ],
+   [
+    "Price after discount",
+    "$772.80"
+   ]
+  ],
+  "rating": "4.73 (314)",
+  "lat": 44.24149,
+  "lng": -68.33578,
+  "src": "s_Bass-Harbor--ME_18.html"
+ },
+ "1174056797624754924": {
+  "id": "1174056797624754924",
+  "title": "Home in Tremont",
+  "name": "Two houses backing up to Acadia",
+  "beds": [
+   "7 bedrooms",
+   "10 beds",
+   "4 baths"
+  ],
+  "price": "$1,849",
+  "qual": "for 4 nights",
+  "a11y": "$1,849 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $467.25",
+    "$1,869.00"
+   ],
+   [
+    "Early booking discount",
+    "-$20.50"
+   ],
+   [
+    "Price after discount",
+    "$1,848.50"
+   ]
+  ],
+  "rating": "4.73 (11)",
+  "lat": 44.2408,
+  "lng": -68.33279,
+  "src": "s_Bass-Harbor--ME_18.html"
+ },
+ "1768898922929654536": {
+  "id": "1768898922929654536",
+  "title": "Home in Southwest Harbor",
+  "name": "Luxury designer cabin near Acadia",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2 baths"
+  ],
+  "price": "$1,939",
+  "qual": "for 4 nights",
+  "a11y": "$1,939 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $497.05",
+    "$1,988.20"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$49.71"
+   ],
+   [
+    "Price after discount",
+    "$1,938.49"
+   ]
+  ],
+  "rating": "5.0 (9)",
+  "lat": 44.2502,
+  "lng": -68.3014,
+  "src": "s_Bass-Harbor--ME_18.html"
+ },
+ "1037011512302882760": {
+  "id": "1037011512302882760",
+  "title": "Home in Southwest Harbor",
+  "name": "Fenced yard with fire table near Acadia",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2 baths"
+  ],
+  "price": "$933",
+  "qual": "for 4 nights",
+  "a11y": "$933 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $242.50",
+    "$969.99"
+   ],
+   [
+    "Early booking discount",
+    "-$13.10"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$23.92"
+   ],
+   [
+    "Price after discount",
+    "$932.97"
+   ]
+  ],
+  "rating": "4.95 (97)",
+  "lat": 44.28865,
+  "lng": -68.33686,
+  "src": "s_Bass-Harbor--ME_18.html"
+ },
+ "31185398": {
+  "id": "31185398",
+  "title": "Home in Southwest Harbor",
+  "name": "Harbor views from a 1920s hilltop home",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "2 baths"
+  ],
+  "price": "$2,632",
+  "qual": "for 4 nights",
+  "a11y": "$2,632 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $674.75",
+    "$2,699.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$67.48"
+   ],
+   [
+    "Price after discount",
+    "$2,631.52"
+   ]
+  ],
+  "rating": "4.97 (92)",
+  "lat": 44.27339,
+  "lng": -68.32775,
+  "src": "s_Bass-Harbor--ME_18.html"
+ },
+ "611026937918760595": {
+  "id": "611026937918760595",
+  "title": "Home in Southwest Harbor",
+  "name": "Sauna, deck, and a walk to harbor",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "1.5 baths"
+  ],
+  "price": "$840",
+  "qual": "for 4 nights",
+  "a11y": "$840 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $215.25",
+    "$861.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$21.53"
+   ],
+   [
+    "Price after discount",
+    "$839.47"
+   ]
+  ],
+  "rating": "4.89 (85)",
+  "lat": 44.2806,
+  "lng": -68.3173,
+  "src": "s_Bass-Harbor--ME_18.html"
+ },
+ "1486845126560990780": {
+  "id": "1486845126560990780",
+  "title": "Home in Tremont",
+  "name": "Historic home above the harbor, with a fire pit & grill",
+  "beds": [
+   "3 bedrooms",
+   "1 bed",
+   "2 baths"
+  ],
+  "price": "$2,496",
+  "qual": "for 4 nights",
+  "a11y": "$2,496 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $624.00",
+    "$2,496.00"
+   ]
+  ],
+  "rating": "4.85 (13)",
+  "lat": 44.2411,
+  "lng": -68.3554,
+  "src": "s_Bernard--ME_0.html"
+ },
+ "700192960937194517": {
+  "id": "700192960937194517",
+  "title": "Home in Southwest Harbor",
+  "name": "Sleeps 16 near Acadia National Park",
+  "beds": [
+   "7 bedrooms",
+   "11 beds",
+   "3 baths"
+  ],
+  "price": "$1,581",
+  "qual": "for 4 nights",
+  "a11y": "$1,581 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $409.75",
+    "$1,639.00"
+   ],
+   [
+    "Early booking discount",
+    "-$17.85"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$40.53"
+   ],
+   [
+    "Price after discount",
+    "$1,580.62"
+   ]
+  ],
+  "rating": "4.87 (95)",
+  "lat": 44.28809,
+  "lng": -68.33837,
+  "src": "s_Bernard--ME_18.html"
+ },
+ "1805466896824554803": {
+  "id": "1805466896824554803",
+  "title": "Home in Ellsworth",
+  "name": "3-acre secluded retreat with a 7-person hot tub, a game room, and a home theater",
+  "beds": [
+   "4 bedrooms",
+   "8 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,910",
+  "qual": "for 4 nights",
+  "a11y": "$1,910 for 4 nights, originally $2,275",
+  "expl": [
+   [
+    "4 nights x $568.75",
+    "$2,275.00"
+   ],
+   [
+    "Special offer",
+    "-$365.00"
+   ],
+   [
+    "Price after discount",
+    "$1,910.00"
+   ]
+  ],
+  "rating": "New",
+  "lat": 44.5817,
+  "lng": -68.4639,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1800278621087738672": {
+  "id": "1800278621087738672",
+  "title": "Home in Ellsworth",
+  "name": "Secluded waterfront home with 250 ft of lake access, a kayak, and a fire pit",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,250",
+  "qual": "for 4 nights",
+  "a11y": "$1,250 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $320.50",
+    "$1,282.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$32.05"
+   ],
+   [
+    "Price after discount",
+    "$1,249.95"
+   ]
+  ],
+  "rating": "New",
+  "lat": 44.6531,
+  "lng": -68.4244,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1506097978378710517": {
+  "id": "1506097978378710517",
+  "title": "Cabin in Hancock",
+  "name": "74-acre forest retreat with a treehouse suite, a hot tub, a sauna, and a fire pit",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,406",
+  "qual": "for 4 nights",
+  "a11y": "$1,406 for 4 nights, originally $1,580",
+  "expl": [
+   [
+    "4 nights x $395.00",
+    "$1,580.00"
+   ],
+   [
+    "Early booking discount",
+    "-$138.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$36.05"
+   ],
+   [
+    "Price after discount",
+    "$1,405.95"
+   ]
+  ],
+  "rating": "4.86 (28)",
+  "lat": 44.5549,
+  "lng": -68.37889,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1358838003170693660": {
+  "id": "1358838003170693660",
+  "title": "Home in Ellsworth",
+  "name": "Recently renovated home with a fire pit, a grill, a private entrance, free parking",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$866",
+  "qual": "for 4 nights",
+  "a11y": "$866 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $225.05",
+    "$900.20"
+   ],
+   [
+    "Early booking discount",
+    "-$13.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$22.18"
+   ],
+   [
+    "Price after discount",
+    "$865.02"
+   ]
+  ],
+  "rating": "4.9 (70)",
+  "lat": 44.5258,
+  "lng": -68.3998,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1113926239437182940": {
+  "id": "1113926239437182940",
+  "title": "Home in Ellsworth",
+  "name": "Direct water views, with a fire pit, a BBQ grill, a patio, and free parking",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2 baths"
+  ],
+  "price": "$681",
+  "qual": "for 4 nights",
+  "a11y": "$681 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $176.00",
+    "$704.00"
+   ],
+   [
+    "Early booking discount",
+    "-$6.10"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$17.45"
+   ],
+   [
+    "Price after discount",
+    "$680.45"
+   ]
+  ],
+  "rating": "4.68 (82)",
+  "lat": 44.53655,
+  "lng": -68.41978,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1535771288683367630": {
+  "id": "1535771288683367630",
+  "title": "Home in Ellsworth",
+  "name": "Oceanfront with a saltwater hot tub, a barrel sauna, and bay views",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2 baths"
+  ],
+  "price": "$2,273",
+  "qual": "for 4 nights",
+  "a11y": "$2,273 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $582.75",
+    "$2,331.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$58.28"
+   ],
+   [
+    "Price after discount",
+    "$2,272.72"
+   ]
+  ],
+  "rating": "4.97 (29)",
+  "lat": 44.4998,
+  "lng": -68.4276,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "33589732": {
+  "id": "33589732",
+  "title": "Cottage in Ellsworth",
+  "name": "Lakefront on Green Lake, with a hot tub, kayak, and fire pit",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "2 baths"
+  ],
+  "price": "$1,644",
+  "qual": "for 4 nights",
+  "a11y": "$1,644 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $421.50",
+    "$1,686.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$42.15"
+   ],
+   [
+    "Price after discount",
+    "$1,643.85"
+   ]
+  ],
+  "rating": "4.89 (71)",
+  "lat": 44.646,
+  "lng": -68.5004,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "653784188850943919": {
+  "id": "653784188850943919",
+  "title": "Home in Ellsworth",
+  "name": "Historic 1828 mansion with a private heated pool, a hot tub, and a fire pit",
+  "beds": [
+   "10 bedrooms",
+   "16 beds",
+   "5 baths"
+  ],
+  "price": "$3,286",
+  "qual": "for 4 nights",
+  "a11y": "$3,286 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $842.50",
+    "$3,370.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$84.25"
+   ],
+   [
+    "Price after discount",
+    "$3,285.75"
+   ]
+  ],
+  "rating": "4.99 (97)",
+  "lat": 44.5399,
+  "lng": -68.42915,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1805420902091262262": {
+  "id": "1805420902091262262",
+  "title": "Home in Ellsworth",
+  "name": "Luxury 6BR with a huge game room, 16 min to Acadia",
+  "beds": [
+   "6 bedrooms",
+   "8 beds",
+   "2 baths"
+  ],
+  "price": "$865",
+  "qual": "for 4 nights",
+  "a11y": "$865 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $220.50",
+    "$882.00"
+   ],
+   [
+    "Early booking discount",
+    "-$17.10"
+   ],
+   [
+    "Price after discount",
+    "$864.90"
+   ]
+  ],
+  "rating": "New",
+  "lat": 44.5519,
+  "lng": -68.4202,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "1279663810816951630": {
+  "id": "1279663810816951630",
+  "title": "Home in Ellsworth",
+  "name": "Lakefront with 400 ft of waterfront, a dock, and a sandy beach",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "2 baths"
+  ],
+  "price": "$1,609",
+  "qual": "for 4 nights",
+  "a11y": "$1,609 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $412.50",
+    "$1,650.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$41.25"
+   ],
+   [
+    "Price after discount",
+    "$1,608.75"
+   ]
+  ],
+  "rating": "4.92 (13)",
+  "lat": 44.64412924603959,
+  "lng": -68.4985672863805,
+  "src": "s_Ellsworth--ME_0.html"
+ },
+ "33968289": {
+  "id": "33968289",
+  "title": "Home in Hancock",
+  "name": "Waterfront on Kilkenny Cove, with a fire pit",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,270",
+  "qual": "for 4 nights",
+  "a11y": "$1,270 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $325.50",
+    "$1,302.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$32.55"
+   ],
+   [
+    "Price after discount",
+    "$1,269.45"
+   ]
+  ],
+  "rating": "4.84 (132)",
+  "lat": 44.5357,
+  "lng": -68.3083,
+  "src": "s_Ellsworth--ME_18.html"
+ },
+ "1556779144028253495": {
+  "id": "1556779144028253495",
+  "title": "Home in Franklin",
+  "name": "Hot Tub, MDI, Lake front, Fire pit, Game Room!",
+  "beds": [
+   "5 bedrooms",
+   "9 beds"
+  ],
+  "price": "$2,608",
+  "qual": "for 4 nights",
+  "a11y": "$2,608 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $668.50",
+    "$2,674.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$66.85"
+   ],
+   [
+    "Price after discount",
+    "$2,607.15"
+   ]
+  ],
+  "rating": "5.0 (36)",
+  "lat": 44.608436290361745,
+  "lng": -68.23122639832606,
+  "src": "s_Franklin--ME_0.html"
+ },
+ "629677250314896465": {
+  "id": "629677250314896465",
+  "title": "Cabin in Gouldsboro",
+  "name": "Luxe Waterfront Cabin Getaway on Private Peninsula",
+  "beds": [
+   "4 bedrooms",
+   "9 beds"
+  ],
+  "price": "$1,523",
+  "qual": "for 4 nights",
+  "a11y": "$1,523 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $390.50",
+    "$1,562.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$39.05"
+   ],
+   [
+    "Price after discount",
+    "$1,522.95"
+   ]
+  ],
+  "rating": "4.97 (90)",
+  "lat": 44.48502,
+  "lng": -68.0278,
+  "src": "s_Franklin--ME_0.html"
+ },
+ "48272248": {
+  "id": "48272248",
+  "title": "Cottage in Franklin",
+  "name": "Mainestay Cottage - 4 Season Waterfront Retreat",
+  "beds": [
+   "3 bedrooms",
+   "7 beds"
+  ],
+  "price": "$1,731",
+  "qual": "for 4 nights",
+  "a11y": "$1,731 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $443.75",
+    "$1,775.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$44.38"
+   ],
+   [
+    "Price after discount",
+    "$1,730.62"
+   ]
+  ],
+  "rating": "4.96 (129)",
+  "lat": 44.5671,
+  "lng": -68.2509,
+  "src": "s_Franklin--ME_0.html"
+ },
+ "51622972": {
+  "id": "51622972",
+  "title": "Home in Sullivan",
+  "name": "Downeast Sunset Luxury Lakehouse. Amazing find!",
+  "beds": [
+   "4 bedrooms",
+   "6 beds"
+  ],
+  "price": "$2,046",
+  "qual": "for 4 nights",
+  "a11y": "$2,046 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $524.50",
+    "$2,098.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$52.45"
+   ],
+   [
+    "Price after discount",
+    "$2,045.55"
+   ]
+  ],
+  "rating": "4.95 (63)",
+  "lat": 44.5486,
+  "lng": -68.1288,
+  "src": "s_Franklin--ME_0.html"
+ },
+ "1217472265575202413": {
+  "id": "1217472265575202413",
+  "title": "Cabin in Mariaville",
+  "name": "Lake front, Hot Tub, Kayak, MDI!",
+  "beds": [
+   "4 bedrooms",
+   "7 beds"
+  ],
+  "price": "$1,833",
+  "qual": "for 4 nights",
+  "a11y": "$1,833 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $469.75",
+    "$1,879.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$46.98"
+   ],
+   [
+    "Price after discount",
+    "$1,832.02"
+   ]
+  ],
+  "rating": "4.9 (87)",
+  "lat": 44.62811,
+  "lng": -68.39989,
+  "src": "s_Franklin--ME_0.html"
+ },
+ "1219803097085200377": {
+  "id": "1219803097085200377",
+  "title": "Home in Hancock",
+  "name": "Views of Rare Reversing Falls at Once Upon a Tide!",
+  "beds": [
+   "6 bedrooms",
+   "7 beds"
+  ],
+  "price": "$3,315",
+  "qual": "for 4 nights",
+  "a11y": "$3,315 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $850.00",
+    "$3,400.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$85.00"
+   ],
+   [
+    "Price after discount",
+    "$3,315.00"
+   ]
+  ],
+  "rating": "5.0 (34)",
+  "lat": 44.5193,
+  "lng": -68.2233,
+  "src": "s_Franklin--ME_0.html"
+ },
+ "1196928800896612186": {
+  "id": "1196928800896612186",
+  "title": "Home in Gouldsboro",
+  "name": "Beachfront chalet with a gameroom",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,170",
+  "qual": "for 4 nights",
+  "a11y": "$1,170 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $299.75",
+    "$1,199.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$29.98"
+   ],
+   [
+    "Price after discount",
+    "$1,169.02"
+   ]
+  ],
+  "rating": "5.0 (79)",
+  "lat": 44.42496,
+  "lng": -67.97553,
+  "src": "s_Gouldsboro--ME_0.html"
+ },
+ "1532954140056387096": {
+  "id": "1532954140056387096",
+  "title": "Cabin in Gouldsboro",
+  "name": "14 acres of forest and waterfront beach",
+  "beds": [
+   "3 bedrooms",
+   "3 beds",
+   "1 bath"
+  ],
+  "price": "$1,073",
+  "qual": "for 4 nights",
+  "a11y": "$1,073 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $275.00",
+    "$1,100.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$27.50"
+   ],
+   [
+    "Price after discount",
+    "$1,072.50"
+   ]
+  ],
+  "rating": "5.0 (27)",
+  "lat": 44.4831,
+  "lng": -68.0244,
+  "src": "s_Gouldsboro--ME_0.html"
+ },
+ "1695976969124523206": {
+  "id": "1695976969124523206",
+  "title": "Cottage in Gouldsboro",
+  "name": "Oceanfront cottage minutes from Acadia",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,577",
+  "qual": "for 4 nights",
+  "a11y": "$1,577 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $404.26",
+    "$1,617.05"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$40.43"
+   ],
+   [
+    "Price after discount",
+    "$1,576.62"
+   ]
+  ],
+  "rating": "4.9 (10)",
+  "lat": 44.4034,
+  "lng": -68.0247,
+  "src": "s_Gouldsboro--ME_0.html"
+ },
+ "1305300752577177934": {
+  "id": "1305300752577177934",
+  "title": "Home in Gouldsboro",
+  "name": "Ocean views and a Norway-inspired duplex",
+  "beds": [
+   "3 bedrooms",
+   "7 beds",
+   "3 baths"
+  ],
+  "price": "$1,584",
+  "qual": "for 4 nights",
+  "a11y": "$1,584 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $406.00",
+    "$1,624.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$40.60"
+   ],
+   [
+    "Price after discount",
+    "$1,583.40"
+   ]
+  ],
+  "rating": "5.0 (39)",
+  "lat": 44.4588,
+  "lng": -68.1137,
+  "src": "s_Gouldsboro--ME_0.html"
+ },
+ "48934755": {
+  "id": "48934755",
+  "title": "Home in Gouldsboro",
+  "name": "Waterfront on 15 acres with kayaks",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,764",
+  "qual": "for 4 nights",
+  "a11y": "$1,764 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $452.25",
+    "$1,809.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$45.23"
+   ],
+   [
+    "Price after discount",
+    "$1,763.77"
+   ]
+  ],
+  "rating": "4.93 (87)",
+  "lat": 44.45465,
+  "lng": -68.0176,
+  "src": "s_Gouldsboro--ME_0.html"
+ },
+ "843561346217341307": {
+  "id": "843561346217341307",
+  "title": "Home in Gouldsboro",
+  "name": "Waterfront compound with a hot tub",
+  "beds": [
+   "5 bedrooms",
+   "13 beds",
+   "3.5 baths"
+  ],
+  "price": "$2,033",
+  "qual": "for 4 nights",
+  "a11y": "$2,033 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $521.25",
+    "$2,085.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$52.13"
+   ],
+   [
+    "Price after discount",
+    "$2,032.87"
+   ]
+  ],
+  "rating": "4.77 (56)",
+  "lat": 44.4906,
+  "lng": -68.0224,
+  "src": "s_Gouldsboro--ME_18.html"
+ },
+ "1395669565091011066": {
+  "id": "1395669565091011066",
+  "title": "Home in Hancock",
+  "name": "Waterfront, with bay and mountain views",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,911",
+  "qual": "for 4 nights",
+  "a11y": "$1,911 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $490.00",
+    "$1,960.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$49.00"
+   ],
+   [
+    "Price after discount",
+    "$1,911.00"
+   ]
+  ],
+  "rating": "4.97 (32)",
+  "lat": 44.5438,
+  "lng": -68.2789,
+  "src": "s_Hancock--ME_0.html"
+ },
+ "1516722419174796779": {
+  "id": "1516722419174796779",
+  "title": "Cabin in Bar Harbor",
+  "name": "Waterfront cabin with private beach access",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2 baths"
+  ],
+  "price": "$1,418",
+  "qual": "for 4 nights",
+  "a11y": "$1,418 for 4 nights, originally $1,870",
+  "expl": [
+   [
+    "4 nights x $354.50",
+    "$1,418.00"
+   ]
+  ],
+  "rating": "4.92 (52)",
+  "lat": 44.4398,
+  "lng": -68.3233,
+  "src": "s_Hancock--ME_0.html"
+ },
+ "48181154": {
+  "id": "48181154",
+  "title": "Home in Lamoine",
+  "name": "Oceanfront with 270 degrees of water views",
+  "beds": [
+   "4 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$1,712",
+  "qual": "for 4 nights",
+  "a11y": "$1,712 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $438.75",
+    "$1,755.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$43.88"
+   ],
+   [
+    "Price after discount",
+    "$1,711.12"
+   ]
+  ],
+  "rating": "4.93 (172)",
+  "lat": 44.4531,
+  "lng": -68.2829,
+  "src": "s_Hancock--ME_18.html"
+ },
+ "1779831964157308083": {
+  "id": "1779831964157308083",
+  "title": "Home in Hancock",
+  "name": "Overlooking Taunton Bay near Acadia",
+  "beds": [
+   "5 bedrooms",
+   "6 beds",
+   "3 baths"
+  ],
+  "price": "$2,306",
+  "qual": "for 4 nights",
+  "a11y": "$2,306 for 4 nights, originally $2,656",
+  "expl": [
+   [
+    "4 nights x $664.00",
+    "$2,656.00"
+   ],
+   [
+    "Special offer",
+    "-$291.20"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$59.12"
+   ],
+   [
+    "Price after discount",
+    "$2,305.68"
+   ]
+  ],
+  "rating": "New",
+  "lat": 44.5363,
+  "lng": -68.2642,
+  "src": "s_Hancock--ME_18.html"
+ },
+ "1774709492636212978": {
+  "id": "1774709492636212978",
+  "title": "Home in Lamoine",
+  "name": "Private 5-acre retreat, 25 min from Acadia, with a fire pit",
+  "beds": [
+   "5 bedrooms",
+   "8 beds",
+   "3 baths"
+  ],
+  "price": "$1,950",
+  "qual": "for 4 nights",
+  "a11y": "$1,950 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $500.00",
+    "$2,000.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$50.00"
+   ],
+   [
+    "Price after discount",
+    "$1,950.00"
+   ]
+  ],
+  "rating": "New",
+  "lat": 44.4602,
+  "lng": -68.3086,
+  "src": "s_Lamoine--ME_0.html"
+ },
+ "1438369068791073881": {
+  "id": "1438369068791073881",
+  "title": "Home in Lamoine",
+  "name": "Oceanfront A-frame with private beach",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "3 baths"
+  ],
+  "price": "$2,722",
+  "qual": "for 4 nights",
+  "a11y": "$2,722 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $697.75",
+    "$2,791.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$69.78"
+   ],
+   [
+    "Price after discount",
+    "$2,721.22"
+   ]
+  ],
+  "rating": "4.76 (71)",
+  "lat": 44.45235,
+  "lng": -68.33622,
+  "src": "s_Lamoine--ME_18.html"
+ },
+ "1415867090130358366": {
+  "id": "1415867090130358366",
+  "title": "Home in Lamoine",
+  "name": "Private hot tub, sauna, and game room",
+  "beds": [
+   "3 bedrooms",
+   "4 beds",
+   "2 baths"
+  ],
+  "price": "$2,223",
+  "qual": "for 4 nights",
+  "a11y": "$2,223 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $570.00",
+    "$2,280.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$57.00"
+   ],
+   [
+    "Price after discount",
+    "$2,223.00"
+   ]
+  ],
+  "rating": "4.98 (66)",
+  "lat": 44.4996,
+  "lng": -68.3615,
+  "src": "s_Lamoine--ME_18.html"
+ },
+ "48042667": {
+  "id": "48042667",
+  "title": "Home in Addison",
+  "name": "20-acre pine retreat, 10 min to the beach",
+  "beds": [
+   "5 bedrooms",
+   "5 beds",
+   "3.5 baths"
+  ],
+  "price": "$1,170",
+  "qual": "for 4 nights",
+  "a11y": "$1,170 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $300.00",
+    "$1,200.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$30.00"
+   ],
+   [
+    "Price after discount",
+    "$1,170.00"
+   ]
+  ],
+  "rating": "4.91 (103)",
+  "lat": 44.50343,
+  "lng": -67.73729,
+  "src": "s_Prospect-Harbor--ME_0.html"
+ },
+ "1187904026331961587": {
+  "id": "1187904026331961587",
+  "title": "Home in Winter Harbor",
+  "name": "Coastal views with an oversized fire pit",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "1.5 baths"
+  ],
+  "price": "$1,942",
+  "qual": "for 4 nights",
+  "a11y": "$1,942 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $497.75",
+    "$1,991.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$49.78"
+   ],
+   [
+    "Price after discount",
+    "$1,941.22"
+   ]
+  ],
+  "rating": "4.98 (50)",
+  "lat": 44.40196,
+  "lng": -68.10092,
+  "src": "s_Prospect-Harbor--ME_18.html"
+ },
+ "852753780325256979": {
+  "id": "852753780325256979",
+  "title": "Condo in Winter Harbor",
+  "name": "Waterfront with harbor views and a deck",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2 baths"
+  ],
+  "price": "$1,174",
+  "qual": "for 4 nights",
+  "a11y": "$1,174 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $301.00",
+    "$1,204.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$30.10"
+   ],
+   [
+    "Price after discount",
+    "$1,173.90"
+   ]
+  ],
+  "rating": "4.54 (59)",
+  "lat": 44.3952,
+  "lng": -68.0824,
+  "src": "s_Prospect-Harbor--ME_18.html"
+ },
+ "39964769": {
+  "id": "39964769",
+  "title": "Home in Gouldsboro",
+  "name": "Beachfront with a private sand cove",
+  "beds": [
+   "4 bedrooms",
+   "9 beds",
+   "3 baths"
+  ],
+  "price": "$2,724",
+  "qual": "for 4 nights",
+  "a11y": "$2,724 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $681.00",
+    "$2,724.00"
+   ]
+  ],
+  "rating": "4.92 (36)",
+  "lat": 44.4166,
+  "lng": -67.9726,
+  "src": "s_Prospect-Harbor--ME_18.html"
+ },
+ "52068990": {
+  "id": "52068990",
+  "title": "Home in Southwest Harbor",
+  "name": "Classic Maine cottage with wrap-around porches, a private balcony, and a fireplace",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "2.5 baths"
+  ],
+  "price": "$2,519",
+  "qual": "for 4 nights",
+  "a11y": "$2,519 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $645.75",
+    "$2,583.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$64.58"
+   ],
+   [
+    "Price after discount",
+    "$2,518.42"
+   ]
+  ],
+  "rating": "4.97 (70)",
+  "lat": 44.2931,
+  "lng": -68.3237,
+  "src": "s_Southwest-Harbor--ME_0.html"
+ },
+ "45881881": {
+  "id": "45881881",
+  "title": "Home in Southwest Harbor",
+  "name": "Architectural gem with soaring ceilings, EV charger, & fire pit",
+  "beds": [
+   "5 bedrooms",
+   "6 beds",
+   "2.5 baths"
+  ],
+  "price": "$4,144",
+  "qual": "for 4 nights",
+  "a11y": "$4,144 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $1,062.50",
+    "$4,250.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$106.25"
+   ],
+   [
+    "Price after discount",
+    "$4,143.75"
+   ]
+  ],
+  "rating": "5.0 (108)",
+  "lat": 44.26794,
+  "lng": -68.31536,
+  "src": "s_Southwest-Harbor--ME_0.html"
+ },
+ "1531804516490890672": {
+  "id": "1531804516490890672",
+  "title": "Home in Mount Desert",
+  "name": "Secluded waterfront on Somes Sound, with a fire pit and 2 decks",
+  "beds": [
+   "3 bedrooms",
+   "6 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,342",
+  "qual": "for 4 nights",
+  "a11y": "$1,342 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $340.10",
+    "$1,360.38"
+   ],
+   [
+    "Early booking discount",
+    "-$19.20"
+   ],
+   [
+    "Price after discount",
+    "$1,341.18"
+   ]
+  ],
+  "rating": "4.94 (32)",
+  "lat": 44.3513,
+  "lng": -68.3273,
+  "src": "s_Southwest-Harbor--ME_0.html"
+ },
+ "1635610833138368893": {
+  "id": "1635610833138368893",
+  "title": "Home in Sullivan",
+  "name": "Waterfront 7BR Retreat | Near Acadia | Sleeps 16",
+  "beds": [
+   "7 bedrooms",
+   "9 beds"
+  ],
+  "price": "$2,883",
+  "qual": "for 4 nights",
+  "a11y": "$2,883 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $739.13",
+    "$2,956.50"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$73.91"
+   ],
+   [
+    "Price after discount",
+    "$2,882.59"
+   ]
+  ],
+  "rating": "4.89 (9)",
+  "lat": 44.50796,
+  "lng": -68.1253,
+  "src": "s_Sullivan--ME_0.html"
+ },
+ "1730071849332597550": {
+  "id": "1730071849332597550",
+  "title": "Home in Sullivan",
+  "name": "Waterfront Maine Home - Hot Tub + Sauna + Kayaks",
+  "beds": [
+   "4 bedrooms",
+   "5 beds"
+  ],
+  "price": "$2,494",
+  "qual": "for 4 nights",
+  "a11y": "$2,494 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $639.31",
+    "$2,557.25"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$63.93"
+   ],
+   [
+    "Price after discount",
+    "$2,493.32"
+   ]
+  ],
+  "rating": "4.38 (8)",
+  "lat": 44.5292,
+  "lng": -68.2296,
+  "src": "s_Sullivan--ME_0.html"
+ },
+ "1358825227793788812": {
+  "id": "1358825227793788812",
+  "title": "Home in Tremont",
+  "name": "Waterfront cottage on Duck Cove with sunsets",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "3 baths"
+  ],
+  "price": "$2,035",
+  "qual": "for 4 nights",
+  "a11y": "$2,035 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $508.75",
+    "$2,035.00"
+   ]
+  ],
+  "rating": "4.85 (27)",
+  "lat": 44.2525,
+  "lng": -68.3771,
+  "src": "s_Tremont--ME_0.html"
+ },
+ "1716799243950280058": {
+  "id": "1716799243950280058",
+  "title": "Home in Tremont",
+  "name": "Newly renovated, across from Acadia National Park",
+  "beds": [
+   "3 bedrooms",
+   "3 beds",
+   "2.5 baths"
+  ],
+  "price": "$2,600",
+  "qual": "for 4 nights",
+  "a11y": "$2,600 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $650.00",
+    "$2,600.00"
+   ]
+  ],
+  "rating": "5.0 (3)",
+  "lat": 44.2901,
+  "lng": -68.4027,
+  "src": "s_Tremont--ME_0.html"
+ },
+ "1366054754927446667": {
+  "id": "1366054754927446667",
+  "title": "Home in Trenton",
+  "name": "Beachfront, with a fire pit and 2 kayaks",
+  "beds": [
+   "4 bedrooms",
+   "5 beds",
+   "3 baths"
+  ],
+  "price": "$2,017",
+  "qual": "for 4 nights",
+  "a11y": "$2,017 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $517.00",
+    "$2,068.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$51.70"
+   ],
+   [
+    "Price after discount",
+    "$2,016.30"
+   ]
+  ],
+  "rating": "5.0 (29)",
+  "lat": 44.46963182868922,
+  "lng": -68.42113874171514,
+  "src": "s_Trenton--ME_0.html"
+ },
+ "1311758369858266492": {
+  "id": "1311758369858266492",
+  "title": "Home in Trenton",
+  "name": "Beachfront with 400 ft of ocean frontage",
+  "beds": [
+   "5 bedrooms",
+   "9 beds",
+   "5.5 baths"
+  ],
+  "price": "$3,600",
+  "qual": "for 4 nights",
+  "a11y": "$3,600 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $923.00",
+    "$3,692.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$92.30"
+   ],
+   [
+    "Price after discount",
+    "$3,599.70"
+   ]
+  ],
+  "rating": "5.0 (11)",
+  "lat": 44.4283,
+  "lng": -68.393,
+  "src": "s_Trenton--ME_0.html"
+ },
+ "43267293": {
+  "id": "43267293",
+  "title": "Home in Trenton",
+  "name": "Oceanfront with Acadia views and fire pit",
+  "beds": [
+   "5 bedrooms",
+   "9 beds",
+   "3 baths"
+  ],
+  "price": "$2,719",
+  "qual": "for 4 nights",
+  "a11y": "$2,719 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $697.00",
+    "$2,788.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$69.70"
+   ],
+   [
+    "Price after discount",
+    "$2,718.30"
+   ]
+  ],
+  "rating": "5.0 (55)",
+  "lat": 44.43724,
+  "lng": -68.39444,
+  "src": "s_Trenton--ME_0.html"
+ },
+ "1706928885217237697": {
+  "id": "1706928885217237697",
+  "title": "Home in Trenton",
+  "name": "Bay views with a private hot tub",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "3.5 baths"
+  ],
+  "price": "$2,867",
+  "qual": "for 4 nights",
+  "a11y": "$2,867 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $755.03",
+    "$3,020.10"
+   ],
+   [
+    "Early booking discount",
+    "-$80.13"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$73.50"
+   ],
+   [
+    "Price after discount",
+    "$2,866.47"
+   ]
+  ],
+  "rating": "5.0 (18)",
+  "lat": 44.3992,
+  "lng": -68.4314,
+  "src": "s_Trenton--ME_0.html"
+ },
+ "41751559": {
+  "id": "41751559",
+  "title": "Home in Winter Harbor",
+  "name": "1/2 mile from Schoodic Point, with a large private yard, a fire pit, and a grill",
+  "beds": [
+   "3 bedrooms",
+   "5 beds",
+   "1 bath"
+  ],
+  "price": "$1,375",
+  "qual": "for 4 nights",
+  "a11y": "$1,375 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $352.50",
+    "$1,410.00"
+   ],
+   [
+    "Discount from Airbnb",
+    "-$35.25"
+   ],
+   [
+    "Price after discount",
+    "$1,374.75"
+   ]
+  ],
+  "rating": "4.94 (49)",
+  "lat": 44.40049,
+  "lng": -68.08157,
+  "src": "s_Winter-Harbor--ME_0.html"
+ },
+ "979869376223646088": {
+  "id": "979869376223646088",
+  "title": "Home in Mount Desert",
+  "name": "5-min walk to the trailhead, with a spacious rooftop deck, a fire pit, and a grill",
+  "beds": [
+   "4 bedrooms",
+   "7 beds",
+   "4 baths"
+  ],
+  "price": "$1,767",
+  "qual": "for 4 nights",
+  "a11y": "$1,767 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $441.75",
+    "$1,767.00"
+   ]
+  ],
+  "rating": "4.93 (60)",
+  "lat": 44.314,
+  "lng": -68.2123,
+  "src": "s_Winter-Harbor--ME_0.html"
+ },
+ "884760376315940048": {
+  "id": "884760376315940048",
+  "title": "Home in Mount Desert",
+  "name": "1910 home with a private balcony, a piano, and beach access",
+  "beds": [
+   "5 bedrooms",
+   "5 beds",
+   "2.5 baths"
+  ],
+  "price": "$1,320",
+  "qual": "for 4 nights",
+  "a11y": "$1,320 for 4 nights",
+  "expl": [
+   [
+    "4 nights x $330.00",
+    "$1,320.00"
+   ]
+  ],
+  "rating": "4.92 (51)",
+  "lat": 44.30357,
+  "lng": -68.2417,
+  "src": "s_Winter-Harbor--ME_0.html"
+ }
+}
